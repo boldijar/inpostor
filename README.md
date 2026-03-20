@@ -2,7 +2,7 @@
 
 Site static pentru un joc de societate pe telefon: adaugi jucători, alegi niște opțiuni, pornești runda și treceți dispozitivul din mână în mână. Nimic de instalat pe server dacă nu vrei — merge și deschis direct din fișier, ideal e totuși un mic server local ca să nu te lovești de CORS sau de cache ciudat.
 
-> **Da, știm că „se scrie altfel”.** Aici e **inpostor** cu **o**, ca să nu ne luăm prea în serios. Cartofii rămân cartofi.
+> **Da, știm că „se scrie altfel”.** Aici e **inpostor** cu **n**, ca să nu ne luăm prea în serios. Cartofii rămân cartofi.
 
 ---
 
